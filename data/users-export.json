@@ -1,0 +1,8 @@
+{
+  "dev@example.com": {
+    "name": "Dev",
+    "email": "dev@example.com",
+    "password": "123456",
+    "isProfileComplete": true
+  }
+}
